@@ -1,0 +1,17 @@
+body {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+  color:red;
+}
+
+img { 
+    width: '100'; 
+    height: '100'; 
+} 
